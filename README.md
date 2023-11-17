@@ -4,13 +4,13 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# The OdiSea
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/maria-eduarda-de-freitas-lopes-382679281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/beatriz-d-177976252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Beatriz de Souza</a>, <a href="https://www.linkedin.com/in/ettore-grecco-b0a4b2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Ettore Grecco</a>, <a href="https://www.linkedin.com/in/nycolas-lagareiro-4053922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Nycolas Lagareiro</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="">Fabiano Alves Onça</a>, <a href=" ">Adriano Felix Valente</a>, <a href=" ">Alexsandro Roberto Nascimento Ordonez</a>
 
 ## Descrição
 
@@ -72,7 +72,7 @@ Coloque código do prompt de comnando se for necessário
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o TheOdiSea.exe na pasta build e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
