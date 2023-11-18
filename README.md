@@ -13,10 +13,8 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="">Fabiano Alves Onça</a>, <a href=" ">Adriano Felix Valente</a>, <a href=" ">Alexsandro Roberto Nascimento Ordonez</a>
 
 ## Descrição
+![Alt text](https://i.imgur.com/XEbNWqt.jpg)
 
-<p align="center">
-<img src=<"https://imgur.com/a/ZuVYkdf" alt= "The OdiSea" border = "0">
-</p>
 
 
 O projeto "The OdiSea" tem como principal objetivo sensibilizar e educar adolescentes e jovens adultos sobre as questões críticas que afetam a vida subaquática, alinhando-se com a 14ª ODS da ONU, que busca conservar e utilizar de forma sustentável os oceanos, mares e recursos marinhos. Com o propósito de fomentar a conscientização de maneira atrativa e dinâmica, o projeto é desenvolvido na plataforma Unity, permitindo uma experiência interativa. A interação com as criaturas aquáticas tem como objetivo chamar a atenção para a problemática do descarte irresponsável de materiais por parte das indústrias na água, enfatizando a necessidade urgente de combater essa prática negligente.
