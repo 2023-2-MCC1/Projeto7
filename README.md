@@ -15,8 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src=<"Unity_ssy1hIN8nR.png" alt= "The OdiSea" border = "0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src=<"https://imgur.com/a/ZuVYkdf" alt= "The OdiSea" border = "0">
 </p>
 
 
