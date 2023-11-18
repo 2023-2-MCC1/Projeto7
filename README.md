@@ -6,7 +6,7 @@
 
 # The OdiSea
 
-## Nome do Grupo
+## Onda Consciente
 
 ## Integrantes: <a href="https://www.linkedin.com/in/maria-eduarda-de-freitas-lopes-382679281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/beatriz-d-177976252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Beatriz de Souza</a>, <a href="https://www.linkedin.com/in/ettore-grecco-b0a4b2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Ettore Grecco</a>, <a href="https://www.linkedin.com/in/nycolas-lagareiro-4053922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Nycolas Lagareiro</a>
 
@@ -15,17 +15,12 @@
 ## Descrição
 
 <p align="center">
-<img src="![image](https://github.com/2023-2-MCC1/Projeto7/assets/70111111/241755b3-08e8-4293-9949-96e5f7793568)
-" alt="The OdiSea" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src=<"Unity_ssy1hIN8nR.png" alt= "The OdiSea" border = "0">
+  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto "The OdiSea" tem como principal objetivo sensibilizar e educar adolescentes e jovens adultos sobre as questões críticas que afetam a vida subaquática, alinhando-se com a 14ª ODS da ONU, que busca conservar e utilizar de forma sustentável os oceanos, mares e recursos marinhos. Com o propósito de fomentar a conscientização de maneira atrativa e dinâmica, o projeto é desenvolvido na plataforma Unity, permitindo uma experiência interativa. A interação com as criaturas aquáticas tem como objetivo chamar a atenção para a problemática do descarte irresponsável de materiais por parte das indústrias na água, enfatizando a necessidade urgente de combater essa prática negligente.
 <br><br>
 
 ## 🛠 Estrutura de pastas
