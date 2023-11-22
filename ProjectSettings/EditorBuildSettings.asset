@@ -24,8 +24,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Cena5.unity
     guid: b53842b0948461d4387afe6c2902237f
   - enabled: 1
-    path: Assets/Scenes/Cena 6.unity
+    path: Assets/Scenes/Cena6.unity
     guid: 17b7060d15ee60d4bbaf4175e04060e8
+  - enabled: 1
+    path: Assets/Scenes/Cena7.unity
+    guid: adc5021b4cbbe4d4a9f60b0238435aad
+  - enabled: 1
+    path: Assets/Scenes/Cena8.unity
+    guid: 9ccca1f2cc2a5e24cb9700caa8f5b59a
+  - enabled: 1
+    path: Assets/Scenes/Cena9.unity
+    guid: 45e2a6689c287b94383793b16e5b3c98
   - enabled: 1
     path: Assets/Scenes/Creditos.unity
     guid: 4ef9819b9d5443f4e81d58c49da2a59c
@@ -35,4 +44,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FasePeixeLanterna.unity
     guid: 54109ad8a6312994394db6c010d97ef9
+  - enabled: 1
+    path: Assets/Scenes/FaseSereia.unity
+    guid: c03a949e2c403b441a0c554c7c901e86
+  - enabled: 1
+    path: Assets/Scenes/FaseHydra.unity
+    guid: d39a20162163e91438c8509df97a66e7
   m_configObjects: {}

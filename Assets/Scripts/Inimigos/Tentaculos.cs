@@ -11,25 +11,11 @@ public class Tentaculos: MonoBehaviour
     public VidaJogador vidaJogador;
     public AudioSource SomDeDano;
 
-    /*private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Jogador"))
+        if (other.gameObject.tag == "Jogador")
         {
-            // Verifica se a colisão é com o jogador
-            VidaJogador2 vidaDoJogador = other.GetComponent<VidaJogador2>();
-
-            if (vidaDoJogador != null)
-            {
-                // Causa dano ao jogador
-                vidaDoJogador.TomarDanoInimigo(dano);
-            }
-        }
-    }*/
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Jogador")
-        {
-            vidaJogador.TomarDano(dano);
+            other.gameObject.GetComponent<VidaJogador>().TomarDano(dano);
         }
     }
     public void tomarDanoProjetil(int dano)
@@ -54,4 +40,6 @@ public class Tentaculos: MonoBehaviour
         Destroy(gameObject);
 
     }
+
+
 }

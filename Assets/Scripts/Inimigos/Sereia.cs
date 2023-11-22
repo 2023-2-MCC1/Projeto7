@@ -3,26 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Sereia: MonoBehaviour
+public class Sereia : MonoBehaviour
 {
     public int dano;
     public VidaJogador vidaJogador;
-
+    public Rigidbody2D rb;
     public Slider barraDeVida;
-    public int vidaSereia = 30;
+    public int vidaSereia;
 
     public GameObject efeitoDeMorte;
-    //public Animator movSereia;
+    public GameObject TelaFinal;
+    public Animator movSereia;
 
     public AudioSource SomDeDano;
     public AudioSource somDanoPescador;
-    public AudioSource musicaSereia;
-
-
-    void Start()
-    {
-        musicaSereia.Play();
-    }
+    public AudioSource somDeMorte;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Jogador")
@@ -31,39 +26,41 @@ public class Sereia: MonoBehaviour
             somDanoPescador.Play();
         }
     }
-    public void tomarDano(int dano)
+    public void tomarDanoProjetil(int dano)
     {
         vidaSereia -= dano;
         SomDeDano.Play();
     }
+
     void Update()
     {
 
         barraDeVida.value = vidaSereia;
 
-        //if (vidaSereia <= 15)
-        //{
-        //    Fase2();
-        //}
+        if (vidaSereia <= 15)
+        {
+            Fase2();
+        }
 
         if (vidaSereia <= 0)
         {
             Morte();
+            somDeMorte.Play();
+
         }
 
-
     }
-
-    //void Fase2()
-    //{
-    //    movSereia.Play("sereiaMovimentacao");
-    //}
+    void Fase2()
+    {
+        movSereia.Play("sereia2");
+    }
     void Morte()
     {
         efeitoDeMorte.SetActive(true);
         Instantiate(efeitoDeMorte, transform.position, Quaternion.identity);
         Destroy(gameObject);
+        TelaFinal.SetActive(true);
     }
-
-
 }
+
+   

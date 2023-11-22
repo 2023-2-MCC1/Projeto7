@@ -11,7 +11,7 @@ public class BotoesMenu: MonoBehaviour
     }
     public void creditos()
     {
-        SceneManager.LoadScene("Creditos");
+        SceneManager.LoadScene(10);
     }
     public void sair()
     {

@@ -18,6 +18,8 @@ public class MovArpao : MonoBehaviour
         Kraken kraken = informacaoDano.GetComponent<Kraken>();
         Tentaculos tentaculo = informacaoDano.GetComponent<Tentaculos>();
         PeixeLanterna peixe = informacaoDano.GetComponent<PeixeLanterna>();
+        Sereia sereia = informacaoDano.GetComponent<Sereia>();
+        Boss hydra = informacaoDano.GetComponent<Boss>();
 
         if (kraken != null)
         {
@@ -34,6 +36,18 @@ public class MovArpao : MonoBehaviour
         if (peixe != null)
         {
             peixe.tomarDanoProjetil(dano);
+        }
+        Destroy(gameObject);
+
+        if (sereia != null)
+        {
+            sereia.tomarDanoProjetil(dano);
+        }
+        Destroy(gameObject);
+
+        if (hydra != null)
+        {
+            hydra.tomarDanoProjetil(dano);
         }
         Destroy(gameObject);
 

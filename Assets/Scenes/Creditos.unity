@@ -189,8 +189,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288594175
-  m_fontColor: {r: 1, g: 0.7529412, b: 0.61960787, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -469,8 +469,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288594175
-  m_fontColor: {r: 1, g: 0.7529412, b: 0.61960787, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -743,8 +743,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4288594175
-  m_fontColor: {r: 1, g: 0.7513477, b: 0.6179246, a: 1}
+    rgba: 4285619021
+  m_fontColor: {r: 0.3032663, g: 0.3574119, b: 0.4433962, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -811,6 +811,134 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 482039176}
   m_CullTransparentMesh: 1
+--- !u!1 &800441059
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 800441061}
+  - component: {fileID: 800441060}
+  m_Layer: 0
+  m_Name: Musica
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &800441060
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800441059}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 61fd10a4690b9024dabf30bedd347834, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.078
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &800441061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800441059}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.07822388, y: -0.11261032, z: 81.55183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1447720438
 GameObject:
   m_ObjectHideFlags: 0
@@ -915,6 +1043,7 @@ GameObject:
   - component: {fileID: 1593452738}
   - component: {fileID: 1593452737}
   - component: {fileID: 1593452736}
+  - component: {fileID: 1593452740}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1007,6 +1136,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1593452740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593452735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170669f16d7e1cc41a1f5cfc5f57027f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musica: {fileID: 800441060}
 --- !u!1 &1595334150
 GameObject:
   m_ObjectHideFlags: 0
@@ -1333,7 +1475,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Eduarda Lopes\nBeatriz de Souza\n\nEttore Grecco\nNycolas Lagareiro\n\nEduarda
-    Lopes \n\nBeatriz de Souza\n\nBeatriz de Souza\n\nEduarda Lopes\nBeatriz de Souza\n\n\n\r\n\n@\n\n@\n\n@\n\n\n\n\nVictor
+    Lopes \n\nBeatriz de Souza\n\nBeatriz de Souza\n\nEduarda Lopes\nBeatriz de Souza\n\n\n\r\n\n@selinaM21\n\n@Sirkoto51\n\n@Beetlemuse\n\n\n\n\nVictor
     Bruno Alexander Rosetti de Quiroz\nFabiano Alves On\xE7a\nAdriano Felix Valente\nAlexsandro
     Roberto Nascimento Ordonez"
   m_isRightToLeft: 0
@@ -1469,8 +1611,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Menu\n\n\nFase Hydra\n\n\nFase Sereia \n\nFase Kraken\n\nFase Peixe-Lanterna\n\nCr\xE9ditos\n\n\n\n\n\r\nSom
-    sereia\n\nMusica tema kraken\n\nMusica tema Peixe\n\n\n\n\nProfessores Orientadores"
+  m_text: "Menu\n\n\nFase Hydra\n\n\nFase Sereia \n\nFase Kraken\n\nFase Peixe-Lanterna\n\nCr\xE9ditos\n\n\n\n\n\r\nCanto
+    da Sereia\n\nMusica tema Kraken/ Hydra\n\nMusica tema Aberra\xE7\xE3o Luminescente\n\n\n\n\nProfessores
+    Orientadores"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d4210d68f458dc44a9cd8f0e9f519c97, type: 2}
   m_sharedMaterial: {fileID: 5722915979211749237, guid: d4210d68f458dc44a9cd8f0e9f519c97, type: 2}
@@ -1613,3 +1756,4 @@ SceneRoots:
   - {fileID: 1447720441}
   - {fileID: 1593452739}
   - {fileID: 414776431}
+  - {fileID: 800441061}
