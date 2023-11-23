@@ -19,9 +19,9 @@
 
 O projeto "The OdiSea" tem como principal objetivo sensibilizar e educar adolescentes e jovens adultos sobre as questões críticas que afetam a vida subaquática, alinhando-se com a 14ª ODS da ONU, que busca conservar e utilizar de forma sustentável os oceanos, mares e recursos marinhos. Com o propósito de fomentar a conscientização de maneira atrativa e dinâmica, o projeto é desenvolvido na plataforma Unity, permitindo uma experiência interativa. A interação com as criaturas aquáticas tem como objetivo chamar a atenção para a problemática do descarte irresponsável de materiais por parte das indústrias na água, enfatizando a necessidade urgente de combater essa prática negligente.
 <br><br>
-https://github.com/2023-2-MCC1/Projeto7/files/13452196/ODS-14-Vida-na-Agua-Objetivos-da-ONU.pdf
-<embed src="https://github.com/2023-2-MCC1/Projeto7/files/13452196/ODS-14-Vida-na-Agua-Objetivos-da-ONU.pdf" width="500" height="375" 
- type="application/pdf">
+
+<b>PDF de apresentação do projeto</b>: https://github.com/2023-2-MCC1/Projeto7/files/13452196/ODS-14-Vida-na-Agua-Objetivos-da-ONU.pdf
+
 
 ## 🛠 Estrutura de pastas
 
