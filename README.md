@@ -6,7 +6,7 @@
 
 # The OdiSea
 
-## Onda Consciente
+## Por: Grupo Onda Consciente
 
 ## Integrantes: <a href="https://www.linkedin.com/in/maria-eduarda-de-freitas-lopes-382679281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/beatriz-d-177976252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Beatriz de Souza</a>, <a href="https://www.linkedin.com/in/ettore-grecco-b0a4b2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Ettore Grecco</a>, <a href="https://www.linkedin.com/in/nycolas-lagareiro-4053922a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Nycolas Lagareiro</a>
 
