@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cena1.unity
+    guid: e50a2385fdb8cf1478283041f2f21ceb
+  - enabled: 1
+    path: Assets/Scenes/Cena2.unity
+    guid: 9cf519623c908204990b40555f3fde57
+  - enabled: 1
+    path: Assets/Scenes/Cena3.unity
+    guid: 9ee1a9d0b7a8a6d4bb47dfa5c741a603
+  - enabled: 1
+    path: Assets/Scenes/Cena4.unity
+    guid: 73605cf6f8ec7cb459d0546f7ebebdeb
+  - enabled: 1
+    path: Assets/Scenes/Cena5.unity
+    guid: b53842b0948461d4387afe6c2902237f
+  - enabled: 1
+    path: Assets/Scenes/Cena6.unity
+    guid: 17b7060d15ee60d4bbaf4175e04060e8
+  - enabled: 1
+    path: Assets/Scenes/Cena7.unity
+    guid: adc5021b4cbbe4d4a9f60b0238435aad
+  - enabled: 1
+    path: Assets/Scenes/Cena8.unity
+    guid: 9ccca1f2cc2a5e24cb9700caa8f5b59a
+  - enabled: 1
+    path: Assets/Scenes/Cena9.unity
+    guid: 45e2a6689c287b94383793b16e5b3c98
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 4ef9819b9d5443f4e81d58c49da2a59c
+  - enabled: 1
+    path: Assets/Scenes/FaseKraken.unity
+    guid: 754f17fc9d78f234486ed117fda5a911
+  - enabled: 1
+    path: Assets/Scenes/FasePeixeLanterna.unity
+    guid: 54109ad8a6312994394db6c010d97ef9
+  - enabled: 1
+    path: Assets/Scenes/FaseSereia.unity
+    guid: c03a949e2c403b441a0c554c7c901e86
+  - enabled: 1
+    path: Assets/Scenes/FaseHydra.unity
+    guid: d39a20162163e91438c8509df97a66e7
+  m_configObjects: {}
